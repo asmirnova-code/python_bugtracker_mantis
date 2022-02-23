@@ -1,1 +1,1 @@
-# python_training_mantis
+# Python training part 2 - Mantis bug tracker
